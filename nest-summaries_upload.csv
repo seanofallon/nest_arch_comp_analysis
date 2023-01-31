@@ -1,0 +1,447 @@
+Nest ID,Species,# Files,File Name(s),Networked?,Entrance Chamber Width?,# Entrances?,Tunnel Lengths?,Nest Depth? (m)
+A_balzani1,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,1,n,0.46
+A_balzani2,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,2,n,0.78
+A_balzani3,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,n/a,n/a,,n,n/a
+A_balzani4,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,1,n,0.495
+A_balzani5,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,1,n,0.41
+A_balzani6,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,8,n,0.96
+A_balzani7,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,1,n,0.47
+A_balzani_T1,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,4,n/a,0.71
+A_balzani_T2,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,3,n/a,1.6
+A_balzani_T3,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,5,n/a,1.6
+A_balzani_T4,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,1,n/a,0.25
+A_balzani_T5,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,3,n/a,0.56
+A_balzani_T6,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,1,n/a,0.61
+A_balzani_T7,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,2,n/a,0.54
+A_balzani_T8,Acromyrmex balzani,1,acromyrmex-balzani_table-and-photos_caldato2016,y,y,8,n/a,1.5
+A_landolti_T1,Acromyrmex landolti,1,acromyrmex-landolti_table_verza2020,n/a,ask,1,n/a,0.4
+A_landolti_T2,Acromyrmex landolti,1,acromyrmex-landolti_table_verza2020,n/a,ask,1,n/a,1.2
+A_landolti_T3,Acromyrmex landolti,1,acromyrmex-landolti_table_verza2020,n/a,ask,1,n/a,0.56
+A_landolti_T4,Acromyrmex landolti,1,acromyrmex-landolti_table_verza2020,n/a,ask,2,n/a,0.65
+A_landolti_T5,Acromyrmex landolti,1,acromyrmex-landolti_table_verza2020,n/a,ask,1,n/a,0.49
+A_landolti_T6,Acromyrmex landolti,1,acromyrmex-landolti_table_verza2020,n/a,ask,1,n/a,0.2
+A_landolti_T7,Acromyrmex landolti,1,acromyrmex-landolti_table_verza2020,n/a,ask,1,n/a,0.23
+A_rugosus_T1,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,1,n/a,0.09
+A_rugosus_T2,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,1,n/a,0.06
+A_rugosus_T3,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,5,n/a,0.1
+A_rugosus_T4,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,1,n/a,0.27
+A_rugosus_T5,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,5,n/a,2.5
+A_rugosus_T6,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,5,n/a,1.9
+A_rugosus_T7,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,4,n/a,1.7
+A_rugosus_T8,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,7,n/a,1.17
+A_rugosus_C9,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",n/a,ask,5,mean,3.75
+A_rugosus_C10,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",ask,ask,3,mean,1.7
+A_rugosus_C11,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",ask,ask,6,mean,1.74
+A_rugosus_C12,Acromyrmex rugosus,4,"acromyrmex-rugosus_photos_verza-2007, acromyrmex-rugosus_photos2_verza-2007, acromyrmex-rugosus_table1_verza-2007,  acromyrmex-rugosus_table2_verza-2007",ask,ask,11,mean,1.34
+A_ashmeadi9,Aphaenogaster ashmeadi,17,A_ashmeadi9 (folder),y,y,2,y,0.32
+A_ashmeadi48,Aphaenogaster ashmeadi,7,A_ashmeadi48 (folder),y,y,n,y,0.15
+A_ashmeadi48new,Aphaenogaster ashmeadi,10,A_ashmeadi48new (folder),y,y,1,n,0.13
+A_ashmeadi49,Aphaenogaster ashmeadi,4,A_ashmeadi49 (folder),y,y,,,0.1
+A_ashmeadi50,Aphaenogaster ashmeadi,6,A_ashmeadi57 (folder),y,y,n,y,0.12
+A_ashmeadi57,Aphaenogaster ashmeadi,2,,n/a,n/a,1,n/a,0.11
+A_ashmeadi52,Aphaenogaster ashmeadi,8,A_ashmeadi58 (folder),y,y,n,y,0.07
+A_ashmeadi40,Aphaenogaster ashmeadi,10,A_ashmeadi40 (folder),y,y,n,,0.18
+A_ashmeadi41,Aphaenogaster ashmeadi,10,A_ashmeadi41 (folder),y,y,,,0.24
+A_ashmeadi42,Aphaenogaster ashmeadi,8,A_ashmeadi42 (folder),y,y,n,,0.1
+A_ashmeadi43,Aphaenogaster ashmeadi,9,A_ashmeadi43 (folder),y,y,n,,0.12
+A_ashmeadi44,Aphaenogaster ashmeadi,8,A_ashmeadi44 (folder),y,y,n,,0.11
+A_ashmeadi45,Aphaenogaster ashmeadi,8,A_ashmeadi45 (folder),y,y,n,,0.16
+A_ashmeadi46,Aphaenogaster ashmeadi,9,A_ashmeadi46 (folder),y,y,,,0.13
+A_ashmeadi47,Aphaenogaster ashmeadi,7,A_ashmeadi47 (folder,y,y,,,0.15
+A_floridana1,Aphaenogaster floridana,9,A_floridana1 (folder),y,y,1,y,0.28
+A_floridana2,Aphaenogaster floridana,18,A_floridana2 (folder),y,y,1,y,0.29
+A_floridana3,Aphaenogaster floridana,9,A_floridana3 (folder),y,y,1,y,0.29
+A_floridana4,Aphaenogaster floridana,7,A_floridana4 (folder),y,y,1,y,0.41
+A_floridana5,Aphaenogaster floridana,9,A_floridana5 (folder),y,y,1,y,0.28
+A_floridana6,Aphaenogaster floridana,16,A_floridana6 (folder),y,y,1,y,0.75
+A_floridana7,Aphaenogaster floridana,7,A_floridana7 (folder),y,y,1,y,0.2
+A_floridana8,Aphaenogaster floridana,8,A_floridana8 (folder),y,y,1,y,0.29
+A_floridana9,Aphaenogaster floridana,7,A_floridana9 (folder),y,y,1,y,0.29
+A_floridana10,Aphaenogaster floridana,4,A_floridana10 (folder),y,y,1,y,0.28
+A_floridana11,Aphaenogaster floridana,6,A_floridana11 (folder),y,y,1,y,0.43
+A_floridana12,Aphaenogaster floridana,5,A_floridana12 (folder),y,y,1,y,0.17
+A_floridana13,Aphaenogaster floridana,2,A_floridana13 (folder),n/a,n/a,n,n/a,n/a
+A_floridana14,Aphaenogaster floridana,3,A_floridana14 (folder),n/a,n/a,1,y,n/a
+A_floridana15,Aphaenogaster floridana,9,A_floridana15 (folder),y,y,1,y,0.32
+A_floridana16,Aphaenogaster floridana,6,A_floridana16 (folder),y,y,1,y,0.32
+A_floridana17,Aphaenogaster floridana,7,A_floridana17 (folder),y,y,1,y,0.1
+A_floridana18,Aphaenogaster floridana,9,A_floridana18 (folder),y,y,1,y,0.45
+A_floridana19,Aphaenogaster floridana,11,A_floridana19 (folder),y,y,1,y,0.3
+A_floridana20,Aphaenogaster floridana,9,A_floridana20 (folder),y,y,1,y,0.35
+A_floridana35,Aphaenogaster floridana,7,A_floridana35 (folder),y,y,1,y,0.33
+A_floridana21,Aphaenogaster floridana,10,A_floridana21 (folder),y,y,1,y,0.54
+A_floridana22,Aphaenogaster floridana,6,A_floridana22 (folder),y,y,1,y,0.48
+A_floridana39,Aphaenogaster floridana,3,A_floridana39 (folder),n/a,n/a,1,n/a,n/a
+A_floridana23,Aphaenogaster floridana,6,A_floridana23 (folder),y,y,1,n/a,n/a
+A_floridana24,Aphaenogaster floridana,17,A_floridana24 (folder),y,y,1,y,0.87
+A_floridana25,Aphaenogaster floridana,14,A_floridana25 (folder),y,y,1,y,0.49
+A_floridana26,Aphaenogaster floridana,6,A_floridana26 (folder),y,y,1,y,0.55
+A_floridana27,Aphaenogaster floridana,5,A_floridana27 (folder),y,y,1,y,0.24
+A_floridana54,Aphaenogaster floridana,3,A_floridana54 (folder),y,y,1,y,0.34
+A_treatae28,Aphaenogaster treatae,5,A_treatae28 (folder),y,y,1,y,0.24
+A_treatae29,Aphaenogaster treatae,4,A_treatae29 (folder),y,y,1,y,0.22
+A_treatae30,Aphaenogaster treatae,5,A_treatae30 (folder),y,y,1,y,0.22
+A_treatae31,Aphaenogaster treatae,4,A_treatae31 (folder),y,y,1,y,0.08
+A_treatae32,Aphaenogaster treatae,7,A_treatae32 (folder,n/a,n/a,,,n/a
+A_treatae33,Aphaenogaster treatae,7,A_treatae33 (folder),n/a,n/a,n/a,n/a,n/a
+A_treatae37,Aphaenogaster treatae,6,A_treatae37 (folder),y,y,1,y,0.16
+A_treatae41,Aphaenogaster treatae,4,A_treatae41 (folder),y,y,1,y,0.24
+A_treatae42,Aphaenogaster treatae,4,A_treatae42 (folder),y,y,1,y,0.22
+A_treatae43,Aphaenogaster treatae,3,A_treatae43 (folder),y,y,1,n,0.25
+A_treatae34,Aphaenogaster treatae,1,A_treatae34 (folder),y,y,1,y,0.1
+A_treatae35,Aphaenogaster treatae,1,A_treatae35 (folder),y,y,,y,0.1
+A_treatae36,Aphaenogaster treatae,1,A_treatae36 (folder),y,y,1,y,0.11
+A_treatae39,Aphaenogaster treatae,6,A_treatae39 (folder),y,y,1,y,0.25
+Ap_treatae1,Aphaenogaster treatae,0,,y,y,1,n,n/a
+C_socius1,Camponotus socius,1,camponotus-socius_nests1n5_tschinkel2005,y,y,1,y,0.24
+C_socius10,Camponotus socius,1,camponotus-socius_nests19n10_tschinkel2005,y,y,1,n,0.38
+C_socius11,Camponotus socius,1,camponotus-socius_nest11_tschinkel2005,y,y,1,y,0.21
+C_socius12,Camponotus socius,1,camponotus-socius_nests12n13_tschinkel2005,y,y,1,y,0.3
+C_socius13,Camponotus socius,1,camponotus-socius_nests12n13_tschinkel2005,n/a,n/a,1,y,n/a
+C_socius14,Camponotus socius,1,camponotus-socius_nests14n16_tschinkel2005,y,y,1,y,0.76
+C_socius15,Camponotus socius,1,camponotus-socius_nests15n17_tschinkel2005,y,y,1,n,0.35
+C_socius16,Camponotus socius,1,camponotus-socius_nests14n16_tschinkel2005,y,n/a,1,y,n/a
+C_socius17,Camponotus socius,1,camponotus-socius_nests15n17_tschinkel2005,n/a,n/a,n/a,n,0.68
+C_socius18,Camponotus socius,1,camponotus-socius_nest18_tschinkel2005,y,y,1,n,0.43
+C_socius19,Camponotus socius,1,camponotus-socius_nests19n10_tschinkel2005,n/a,n/a,n/a,n/a,n/a
+C_socius20,Camponotus socius,1,camponotus-socius_nests20n21_tschinkel2005,y,y,3,n,0.6
+C_socius21,Camponotus socius,1,camponotus-socius_nests20n21_tschinkel2005,y,y,2,n,0.49
+C_socius22,Camponotus socius,1,camponotus-socius_nests22n23_tschinkel2005,n/a,n/a,1,n,0.39
+C_socius23,Camponotus socius,1,camponotus-socius_nests22n23_tschinkel2005,y,y,,n,0.46
+C_socius24,Camponotus socius,1,camponotus-socius_nests3n24_tschinkel2005,y,n/a,,n,0.45
+C_socius3,Camponotus socius,1,camponotus-socius_nests3n24_tschinkel2005,n/a,n/a,n/a,n/a,n/a
+C_socius4,Camponotus socius,1,camponotus-socius_nests6n4_tschinkel2005,n/a,n/a,n/a,n/a,n/a
+C_socius5,Camponotus socius,1,camponotus-socius_nests1n5_tschinkel2005,n/a,n,1,y,0.41
+C_socius6,Camponotus socius,1,camponotus-socius_nests6n4_tschinkel2005,y,y,1,y,0.44
+C_socius7,Camponotus socius,1,camponotus-socius_nests7n9_tschinkel2005,n/a,n,n/a,y,0.56
+C_socius8,Camponotus socius,1,camponotus-socius_nest8_tschinkel2005,y,y,1,n,0.28
+C_socius9,Camponotus socius,2,"camponotus-socius_nest9_tschinkel2005, camponotus-socius_nests7n9_tschinkel2005",y,y,1,y,0.47
+D_indicum1,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum2,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum3,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum4,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum5,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum6,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum7,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum8,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,n,n/a
+D_indicum9,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum10,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum11,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,y,y,,y,n/a
+D_indicum12,Diacamma indicum,1,diacamma-indicum_nests_battacharyya-2019,n/a,n/a,1,y,n/a
+D_indicum13,Diacamma indicum,0,,y,y,,n,n/a
+D_indicum_fig1,Diacamma indicum,1,diacamma-indicum_fig1_battacharyya-2019,y,y,1,y,n/a
+D_australis,Dinoponera grandis,1,dinoponera-grandis_illustration_paiva1995,y,ask,,ask,ask
+D_quadriceps1,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.75
+D_quadriceps2,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.3
+D_quadriceps3,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.28
+D_quadriceps7,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.55
+D_quadriceps8,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.6
+D_quadriceps9,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.69
+D_quadriceps11,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,2,n/a,0.43
+D_quadriceps12,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,1.2
+D_quadriceps13,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,2,n/a,1.05
+D_quadriceps17,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.55
+D_quadriceps20,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.55
+D_quadriceps22,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,y,y,2,ask,0.72
+D_quadriceps29,Dinoponera quadriceps,1,dinoponera-quadriceps_table_vasconcellos2004,n/a,n/a,1,n/a,0.82
+D_bureni1,Dorymyrmex bureni,3,"dorymyrmex-bureni1_fig7c_tschinkel2015,  dorymyrmex-bureni1_side, dorymyrmex-bureni1_top",n/a,n,n,n,n/a
+D_bureni2,Dorymyrmex bureni,2,"dorymyrmex-bureni2_side, dorymyrmex-bureni2_top",n/a,n/a,n/a,n/a,n/a
+E_brunneum1,Ectatomma brunneum,1,ectatomma-brunneum_table_renard2010,n/a,y,,n/a,n/a
+E_brunneum2,Ectatomma brunneum,1,ectatomma-brunneum_table_renard2010,n/a,y,,n/a,n/a
+E_brunneum3,Ectatomma brunneum,1,ectatomma-brunneum_table_renard2010,n/a,y,,n/a,n/a
+E_brunneum4,Ectatomma brunneum,1,ectatomma-brunneum_table_renard2010,n/a,y,,n/a,n/a
+E_brunneum5,Ectatomma brunneum,1,ectatomma-brunneum_table_renard2010,n/a,y,,n/a,n/a
+E_brunneum6,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum7,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum8,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum9,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum10,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum11,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum12,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum13,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum14,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum15,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_brunneum16,Ectatomma brunneum,1,ectatomma-brunneum_table_vierira2006,n/a,y,,n/a,n/a
+E_edentatum1,Ectatomma edentatum,2,"ectatomma-edentatum_schematics_giannotti2001, ectatomma-edentatum_table_giannotti2001",ask,y,,ask,ask
+E_edentatum2,Ectatomma edentatum,2,"ectatomma-edentatum_schematics_giannotti2001, ectatomma-edentatum_table_giannotti2001",ask,y,,ask,ask
+E_edentatum3,Ectatomma edentatum,2,"ectatomma-edentatum_schematics_giannotti2001, ectatomma-edentatum_table_giannotti2001",ask,y,,ask,ask
+E_edentatum4,Ectatomma edentatum,2,"ectatomma-edentatum_schematics_giannotti2001, ectatomma-edentatum_table_giannotti2001",ask,y,,ask,ask
+E_edentatum5,Ectatomma edentatum,2,"ectatomma-edentatum_schematics_giannotti2001, ectatomma-edentatum_table_giannotti2001",ask,y,,ask,ask
+E_edentatum6,Ectatomma edentatum,1,ectatomma-edentatum_table_giannotti2001,ask,y,,ask,ask
+E_edentatum7,Ectatomma edentatum,1,ectatomma-edentatum_table_giannotti2001,ask,y,,ask,ask
+E_edentatum8,Ectatomma edentatum,1,ectatomma-edentatum_table_giannotti2001,ask,y,,ask,ask
+E_edentatum9,Ectatomma edentatum,1,ectatomma-edentatum_table_giannotti2001,ask,y,,ask,ask
+E_edentatum10,Ectatomma edentatum,1,ectatomma-edentatum_table_giannotti2001,ask,n/a,,ask,ask
+E_edentatum11,Ectatomma edentatum,2,"ectatomma-edentatum_schematics2_giannotti2001, ectatomma-edentatum_table_giannotti2001",ask,y,,ask,ask
+E_edentatum12,Ectatomma edentatum,2,"ectatomma-edentatum_schematics2_giannotti2001, ectatomma-edentatum_table_giannotti2001",ask,y,,ask,ask
+E_opaciventre2,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.18
+E_opaciventre3,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.38
+E_opaciventre4,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.32
+E_opaciventre5,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.54
+E_opaciventre6,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.44
+E_opaciventre7,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.45
+E_opaciventre8,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.48
+E_opaciventre9,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.68
+E_opaciventre10,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,n/a,1,n/a,0.12
+E_opaciventre11,Ectatomma opaciventre,2,"ectatomma-opaciventre_table_antonialli1997, ectatomma-opaciventre_schematics_antonialli1997",y,y,1,n/a,0.48
+F_archboldi1,Formica archboldi,1,formica-archboldi_photo_tschinkel2015,y,n/a,1,n/a,n/a
+F_archboldi2,Formica archboldi,1,formica-archboldi_photo_tschinkel2015,y,n/a,1,n/a,n/a
+F_archboldi3,Formica archboldi,2,"formica-archboldi_photo_tschinkel2015, formica-archboldi_photo_king2007",y,y,1,n,n
+F_archboldi4,Formica archboldi,1,formica-archboldi_photo_tschinkel2015,n/a,n/a,1,n/a,n/a
+F_dolosa1,Formica dolosa,1,formica-dolosa_photo_king2007,y,y,1,n,n
+F_fusca1,Formica fusca,1,formica-fusca_nests_markin-1964,y,n/a,1,n/a,n
+F_fusca2,Formica fusca,1,formica-fusca_nests_markin-1964,n/a,n/a,1,n/a,n
+F_japonica_T3,Formica japonica,1,formica-japonica_schematics_kondoh-1967,n,n/a,n,n,2.86
+F_japonica_T1,Formica japonica,1,formica-japonica_schematics_kondoh-1967,n,n/a,n,n,1.45
+F_japonica_T4,Formica japonica,1,formica-japonica_schematics_kondoh-1967,n,n/a,n,n,1.56
+F_japonica_T13,Formica japonica,1,formica-japonica_schematics_kondoh-1967,n,n/a,n,n,1.57
+F_pallidefulva1,Formica pallidefulva,1,formica-pallidefulva_photo_tschinkel2003,y,n,1,n,n
+F_pallidefulva2,Formica pallidefulva,1,formica-pallidefulva_photo_king2007,n/a,n/a,n/a,n/a,n/a
+F_pallidefulva3,Formica pallidefulva,1,formica_pallidefulva_williams_lofgren_1988,n/a,n/a,n/a,n/a,n/a
+M_viridum,Monomorium viridum,1,monomorium-viridum_nest-photo_williams-1988,y,y,n,n,n
+M_inflatus1,Mycetagroicus inflatus,2,"mycetagroicus-inflatus_photoillustration_jesovnik2013, mycetagroicus-inflatus_table_jesovnik2013",y,y,1,n,1.03
+M_inflatus2,Mycetagroicus inflatus,2,"mycetagroicus-inflatus_photoillustration_jesovnik2013, mycetagroicus-inflatus_table_jesovnik2013",y,y,1,n,0.96
+M_inflatus3,Mycetagroicus inflatus,1,mycetagroicus-inflatus_table_jesovnik2013,y,y,1,n,2.3
+M_inflatus4,Mycetagroicus inflatus,2,"mycetagroicus-inflatus_photoillustration_jesovnik2013, mycetagroicus-inflatus_table_jesovnik2013",y,y,1,n,3.1
+M_acutus1,Mycetarotes acutus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.08
+M_acutus2,Mycetarotes acutus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.03
+M_acutus3,Mycetarotes acutus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.18
+M_acutus4,Mycetarotes acutus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.16
+M_acutus5,Mycetarotes acutus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.13
+M_parallelus1,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.1
+M_parallelus2,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.12
+M_parallelus3,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.12
+M_parallelus4,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.11
+M_parallelus5,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.09
+M_parallelus6,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.1
+M_parallelus7,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,n/a,1,n/a,0.08
+M_parallelus8,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.15
+M_parallelus9,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.14
+M_parallelus10,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.14
+M_parallelus11,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.14
+M_parallelus12,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.13
+M_parallelus13,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.09
+M_parallelus14,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.12
+M_parallelus15,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.06
+M_parallelus16,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,n/a,1,n/a,0.1
+M_parallelus17,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,n/a
+M_parallelus18,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,n/a,1,n/a,0.11
+M_parallelus19,Mycetarotes parallelus,1,M-parallelus-acutus_table_solomon-2004,y,y,1,n/a,0.12
+M_simplex1,Mycetophylax simplex,1,mycetophylax-simplex_table_diehl-fleig2007,y,n/a,,n/a,0.09
+M_simplex2,Mycetophylax simplex,1,mycetophylax-simplex_table_diehl-fleig2007,y,y,,n/a,0.33
+M_simplex3,Mycetophylax simplex,1,mycetophylax-simplex_table_diehl-fleig2007,y,y,,n/a,0.17
+M_simplex3b,Mycetophylax simplex,0,,y,y,,n/a,n/a
+M_simplex4,Mycetophylax simplex,1,mycetophylax-simplex_table_diehl-fleig2007,y,y,,n/a,0.24
+M_simplex5,Mycetophylax simplex,1,mycetophylax-simplex_table_diehl-fleig2007,y,y,,n/a,0.34
+M_simplex6,Mycetophylax simplex,1,mycetophylax-simplex_table_diehl-fleig2007,y,y,,n/a,0.24
+M_simplex7,Mycetophylax simplex,1,mycetophylax-simplex_table_diehl-fleig2007,y,y,,n/a,0.25
+M_simplex8,Mycetophylax simplex,0,,y,n/a,,n/a,n/a
+M_goeldii_CR72,Mycocepurus goeldii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_goeldii_CR54,Mycocepurus goeldii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_goeldii_C20,Mycocepurus goeldii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_goeldii_CR17,Mycocepurus goeldii,2,"M-goeldii-smithii_table_rabeling-2007, M-goeldii-smithii_illustrated_rabeling-2007",y,n/a,n/a,n/a,n/a
+M_smithii_CR7,Mycocepurus smithii,2,"M-goeldii-smithii_table_rabeling-2007, M-goeldii-smithii_illustrated_rabeling-2007",y,n/a,n/a,n/a,n/a
+M_smithii_CR8,Mycocepurus smithii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_smithii_CR60,Mycocepurus smithii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_smithii_CR61a,Mycocepurus smithii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_smithii_CR61b,Mycocepurus smithii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_smithii_CR32a,Mycocepurus smithii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_smithii_CR32b,Mycocepurus smithii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_smithii_CR33,Mycocepurus smithii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_smithii_CR34,Mycocepurus smithii,1,M-goeldii-smithii_table_rabeling-2007,n/a,n/a,n/a,n/a,n/a
+M_navajo1,Myrmecocystus navajo,1,Myrmecosystus-navajo_photo,y,n/a,n/a,n/a,n/a
+N_verenae_Nv1,Neoponera verenae,2,"neoponera-verenae_schematics_moleiro2021, neoponera-verenae_table_moleiro2021",n,n,1,n/a,n/a
+N_verenae_Nv2,Neoponera verenae,2,"neoponera-verenae_schematics_moleiro2021, neoponera-verenae_table_moleiro2021",n,n,3,n/a,n/a
+N_verenae_Nv3,Neoponera verenae,2,"neoponera-verenae_schematics_moleiro2021, neoponera-verenae_table_moleiro2021",n,n,1,n/a,n/a
+N_verenae_Nv4,Neoponera verenae,2,"neoponera-verenae_schematics_moleiro2021, neoponera-verenae_table_moleiro2021",n,n,1,n/a,n/a
+N_verenae_Nv5,Neoponera verenae,2,"neoponera-verenae_schematics2_moleiro2021, neoponera-verenae_table_moleiro2021",n,n,1,n/a,n/a
+N_verenae_Nv6,Neoponera verenae,2,"neoponera-verenae_schematics2_moleiro2021, neoponera-verenae_table_moleiro2021",n,n,1,n/a,n/a
+N_verenae_Nv7,Neoponera verenae,2,"neoponera-verenae_schematics2_moleiro2021, neoponera-verenae_table_moleiro2021",n,n,1,n/a,n/a
+N_verenae_Nv8,Neoponera verenae,2,"neoponera-verenae_schematics2_moleiro2021, neoponera-verenae_table_moleiro2021",n,n,1,n/a,n/a
+O_brunneus1,Odontomachus brunneus,5,"odontomachus-brunneus_nests_tschinkel, odontomachus-brunneus1_bottom, odontomachus-brunneus1_marked, odontomachus-brunneus1_middle, odontomachus-brunneus1_top-chamber ",y,y,n,y,0.32
+O_brunneus2,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,1.33
+O_brunneus3,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,1.79
+O_brunneus4,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,0.88
+O_brunneus5,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,n/a,n/a,n,n,0.63
+O_brunneus6,Odontomachus brunneus,4,"odontomachus-brunneus_nests_tschinkel, odontomachus-brunneus6_bottom, odontomachus-brunneus6_marked, odontomachus-brunneus6_top",y,y,n,y,0.28
+O_brunneus7,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,0.94
+O_brunneus8,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,1.25
+O_brunneus9,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,1.25
+O_brunneus10,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,0.89
+O_brunneus11,Odontomachus brunneus,5,"odontomachus-brunneus_nests_tschinkel, odontomachus-brunneus11_bottom, odontomachus-brunneus11_marked, odontomachus-brunneus11_middle, odontomachus-brunneus11_top  ",y,y,n,y,1.83
+O_brunneus12,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,0.99
+O_brunneus13,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,1,n,1.31
+O_brunneus14,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,1,n,1.19
+O_brunneus15,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,n,y,1.52
+O_brunneus16,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,n/a,n/a,n,0.89
+O_brunneus17,Odontomachus brunneus,1,odontomachus-brunneus_nests_tschinkel,y,y,1,n,0.85
+O_chelifer1,Odontomachus chelifer,2,"odontomachus-chelifer_table_guimaraes-2017, odontomachus-chelifer_nest1_guimaraes-2017",ask,ask,10,n/a,0.87
+O_chelifer2,Odontomachus chelifer,2,"odontomachus-chelifer_table_guimaraes-2017, odontomachus-chelifer_nest2_guimaraes-2017",ask,ask,6,n/a,0.81
+O_chelifer3,Odontomachus chelifer,2,"odontomachus-chelifer_table_guimaraes-2017, odontomachus-chelifer_nest3_guimaraes-2017",y,ask,4,n/a,0.99
+O_chelifer4,Odontomachus chelifer,2,"odontomachus-chelifer_table_guimaraes-2017, odontomachus-chelifer_nest4_guimaraes-2017",ask,ask,9,n/a,1.34
+O_chelifer5,Odontomachus chelifer,2,"odontomachus-chelifer_table_guimaraes-2017,",ask,ask,3,n/a,0.88
+P_striata1,Pachycondyla striata,1,pachycondyla-striata_table-2_silva-melo-2010,n/a,n/a,n/a,n/a,n/a
+P_striata2,Pachycondyla striata,1,pachycondyla-striata_table-2_silva-melo-2010,n/a,n/a,n/a,n/a,n/a
+P_striata3,Pachycondyla striata,1,pachycondyla-striata_table-2_silva-melo-2010,n/a,n/a,n/a,n/a,0.5
+P_striata4,Pachycondyla striata,2,"pachycondyla-striata_table-2_silva-melo-2010, pachycondyla-striata_table-3_silva-melo-2010",n/a,n/a,n/a,n/a,0.6
+P_striata5,Pachycondyla striata,3,"pachycondyla-striata_nest-schematics_silva-melo-2010, pachycondyla-striata_table-2_silva-melo-2010, pachycondyla-striata_table-3_silva-melo-2010",y,y,n,n,0.3
+P_striata6,Pachycondyla striata,3,"pachycondyla-striata_nest-schematics_silva-melo-2010, pachycondyla-striata_table-2_silva-melo-2010, pachycondyla-striata_table-3_silva-melo-2010",y,y,n,n,0.3
+P_striata7,Pachycondyla striata,1,pachycondyla-striata_table-2_silva-melo-2010,n/a,n/a,n/a,n/a,n/a
+P_striata8,Pachycondyla striata,3,"pachycondyla-striata_nest-schematics_silva-melo-2010, pachycondyla-striata_table-2_silva-melo-2010, pachycondyla-striata_table-3_silva-melo-2010",y,y,n,n,0.45
+P_striata9,Pachycondyla striata,3,"pachycondyla-striata_nest-schematics_silva-melo-2010, pachycondyla-striata_table-2_silva-melo-2010, pachycondyla-striata_table-3_silva-melo-2010",y,y,n,n,0.2
+P_adrianoi,Pheidole adrianoi,1,pheidole-adrianoi_cast-photos_tschinkel-ch4,y,y,1,n,n
+P_dentata,Pheidole dentata,1,pheidole-dentata_nest-photo_williams-lofgren-1988,y,y,n,n,n
+P_morrisi1,Pheidole morrisi,1,pheidole-morrisi_murdock-tschinkel-2015,n/a,n/a,n/a,n/a,n/a
+P_morrisi2,Pheidole morrisi,1,pheidole-morrisi_williams-lofgren-1988,n/a,n/a,n/a,n/a,n
+P_oxyops1,Pheidole oxyops,1,pheidole_oxyops_sketches_forti-2007,y,y,1,n,ask
+P_oxyops2,Pheidole oxyops,1,pheidole_oxyops_sketches_forti-2007,y,y,1,n,ask
+P_oxyops3,Pheidole oxyops,1,pheidole_oxyops_sketches_forti-2007,y,y,1,n,ask
+P_oxyops4,Pheidole oxyops,1,pheidole_oxyops_sketches_forti-2007,y,y,1,n,ask
+P_oxyops5,Pheidole oxyops,2,"pheidole_oxyops_sketches_forti-2007,  pheidole-oxyops_nest-photos_forti-2007",y,y,1,n,ask
+P_oxyops6,Pheidole oxyops,2,"pheidole_oxyops_sketches_forti-2007,  pheidole-oxyops_nest-photos_forti-2007",y,y,1,n,ask
+P_oxyops7,Pheidole oxyops,2,"pheidole_oxyops_sketches_forti-2007,  pheidole-oxyops_nest-photos_forti-2007",y,y,1,n,ask
+P_badius,Pogonomyrmex badius,,,,,,,
+P_imparis1A,Prenolepis imparis,1,prenolepsis-imparis_schematics_dennis-1941,y,n/a,n,n/a,n/a
+P_imparis2,Prenolepis imparis,1,prenolepsis-imparis_schematics_dennis-1941,y,n/a,n,n/a,n/a
+P_imparis3,Prenolepis imparis,1,prenolepsis-imparis_schematics_dennis-1941,y,n/a,n,n/a,n/a
+P_imparis4,Prenolepis imparis,1,prenolepsis-imparis_schematics_tschinkel-1987,n/a,n/a,n/a,n/a,2.38
+P_imparis5,Prenolepis imparis,1,prenolepsis-imparis_schematics_tschinkel-1987,n/a,n/a,n/a,n/a,3.63
+P_imparis6,Prenolepis imparis,1,prenolepsis-imparis_schematics_tschinkel-1987,n/a,n/a,n/a,n/a,3.3
+P_imparis7,Prenolepis imparis,1,prenolepsis-imparis_schematics_tschinkel-1987,n/a,n/a,n/a,n/a,2.38
+P_imparis8,Prenolepis imparis,1,prenolepsis-imparis_schematics_tschinkel-1987,n/a,n/a,n/a,n/a,2.86
+P_imparis9,Prenolepis imparis,1,prenolepsis-imparis_schematics_tschinkel-1987,n/a,n/a,n/a,n/a,3.16
+P_imparis10,Prenolepis imparis,1,prenolepsis-imparis_schematics_tschinkel-1987,n/a,n/a,n/a,n/a,2.66
+S_amabilis_AJ01,Sericomyrmex amabilis,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-nests_jesovnik-2018",y,ask,n,n/a,0.1
+S_amabilis_TRS03,Sericomyrmex amabilis,1,sericomyrmex-nests_table_jesovnik-2018,n/a,y,n,n/a,0.03
+S_bondari_AJ02,Sericomyrmex bondari,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-nests_jesovnik-2018",y,ask,n,n/a,n
+S_bondari_AJ05,Sericomyrmex bondari,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-nests_jesovnik-2018",y,ask,n,n/a,n
+S_saramama_AJ03,Sericomyrmex saramama,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-nests_jesovnik-2018",y,y,n,n/a,n
+S_mayri_JSC04,Sericomyrmex mayri,1,sericomyrmex-nests_table_jesovnik-2018,n/a,ask,n,n/a,n
+S_mayri_AJ08,Sericomyrmex mayri,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-saussurei-mayri_jesovnik-2018",y,y,n,n/a,n
+S_mayri_JSC13,Sericomyrmex mayri,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-nests_jesovnik-2018",y,ask,n,n/a,n
+S_mayri_AJ03,Sericomyrmex mayri,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-saussurei-mayri_jesovnik-2018",y,ask,1,n/a,n
+S_mayri_AJ103,Sericomyrmex mayri,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-saussurei-mayri_jesovnik-2018",y,y,1,n/a,n
+S_opacus_TRS08,Sericomyrmex opacus,1,sericomyrmex-nests_table_jesovnik-2018,n/a,y,n,n/a,n
+S_opacus_TRS05,Sericomyrmex opacus,1,sericomyrmex-nests_table_jesovnik-2018,n/a,y,n,n/a,n
+S_parvulus_AJ10,Sericomyrmex parvulus,1,sericomyrmex-nests_table_jesovnik-2018,n/a,ask,n,n/a,n
+S_parvulus_AJ03,Sericomyrmex parvulus,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-nests_jesovnik-2018",y,ask,n,n/a,n
+S_parvulus_JCMC001,Sericomyrmex parvulus,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-nests_jesovnik-2018",y,ask,n,n/a,n
+S_saussurei_JCMC002,Sericomyrmex saussurei,2,"sericomyrmex-nests_table_jesovnik-2018, sericomyrmex-saussurei-mayri_jesovnik-2018",n/a,ask,n,n/a,n
+M_holmgreni,Mycetomoellerius holmgreni,2,"mycetomoellerius-holmgreni_photo-schematic_cristiano-2019, mycetomoellerius-holmgreni_table_cristiano-2019",y,y,1,n,n
+T_septentrionalis1,Trachymyrmex septentrionalis,1,,y,y,,,
+T_septentrionalis2,Trachymyrmex septentrionalis,1,trachymyrmex-sept_photo_tschinkel2015,y,y,1,y,n
+V_pergandei1,Veromessor pergandei,2,"veromessor-pergandei_booher_angle1, veromessor-pergandei_booher_angle2",n/a,n/a,n/a,n/a,n/a
+V_pergandei2,Veromessor pergandei,1,veromessor-pergandei_tschinkel2015,y,y,,,
+E_ruidum1,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.32
+E_ruidum2,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.23
+E_ruidum3,Ectatomma ruidum,2,"ectatomma-ruidum_table_santamaria-2022, ectatomma-ruidum_photos_santamaria-2022",y,y,1,n/a,0.29
+E_ruidum4,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.32
+E_ruidum5,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.34
+E_ruidum6,Ectatomma ruidum,2,"ectatomma-ruidum_table_santamaria-2022, ectatomma-ruidum_photos_santamaria-2022",y,y,1,n/a,0.27
+E_ruidum7,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.3
+E_ruidum8,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.31
+E_ruidum9,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.24
+E_ruidum10,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.31
+E_ruidum11,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.35
+E_ruidum12,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.35
+E_ruidum13,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.32
+E_ruidum14,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.23
+E_ruidum15,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.27
+E_ruidum16,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.24
+E_ruidum17,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.3
+E_ruidum18,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.21
+E_ruidum19,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.28
+E_ruidum20,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.29
+E_ruidum21,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.24
+E_ruidum22,Ectatomma ruidum,2,"ectatomma-ruidum_table_santamaria-2022, ectatomma-ruidum_photos_santamaria-2022",y,y,1,n/a,0.29
+E_ruidum23,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.3
+E_ruidum24,Ectatomma ruidum,1,ectatomma-ruidum_table_santamaria-2022,ask,y,1,n/a,0.23
+A_balzani16,Acromyrmex balzani,3,"acromyrmex-balzani_external-table_batista-2021, acromyrmex-balzani_internal-table_batista-2021, acromyrmex-balzani_models-fig1_batista-2021",y,y,1,n/a,0.25
+A_balzani17,Acromyrmex balzani,3,"acromyrmex-balzani_external-table_batista-2021, acromyrmex-balzani_internal-table_batista-2021, acromyrmex-balzani_models-fig1_batista-2021",y,y,1,n/a,0.23
+A_balzani18,Acromyrmex balzani,3,"acromyrmex-balzani_external-table_batista-2021, acromyrmex-balzani_internal-table_batista-2021, acromyrmex-balzani_models-fig1_batista-2021",y,y,1,n/a,0.22
+A_balzani19,Acromyrmex balzani,3,"acromyrmex-balzani_external-table_batista-2021, acromyrmex-balzani_internal-table_batista-2021, acromyrmex-balzani_models-fig1_batista-2021",y,y,1,n/a,0.69
+A_balzani20,Acromyrmex balzani,3,"acromyrmex-balzani_external-table_batista-2021, acromyrmex-balzani_internal-table_batista-2021, acromyrmex-balzani_models-fig2_batista-2021",y,y,1,n/a,0.2
+A_balzani21,Acromyrmex balzani,3,"acromyrmex-balzani_external-table_batista-2021, acromyrmex-balzani_internal-table_batista-2021, acromyrmex-balzani_models-fig2_batista-2021",y,y,1,n/a,0.69
+A_balzani22,Acromyrmex balzani,3,"acromyrmex-balzani_external-table_batista-2021, acromyrmex-balzani_internal-table_batista-2021, acromyrmex-balzani_models-fig2_batista-2021",y,y,1,n/a,1.22
+A_balzani23,Acromyrmex balzani,3,"acromyrmex-balzani_external-table_batista-2021, acromyrmex-balzani_internal-table_batista-2021, acromyrmex-balzani_models-fig2_batista-2021",y,y,1,n/a,0.76
+A_laevigata1,Atta laevigata,4,"atta-laevigata_circular-tunnel-table_moreira-2004, atta-laevigata_depths-table_moreira2004, atta-laevigata_table_moreira-2004, atta-laevigata_tunnel-table_moreira-2004",ask,ask,ask,ask,1.8
+A_laevigata2,Atta laevigata,5,"atta-laevigata_circular-tunnel-table_moreira-2004, atta-laevigata_depths-table_moreira2004, atta-laevigata_photos-nests2n3_moreira-2004, atta-laevigata_table_moreira-2004, atta-laevigata_tunnel-table_moreira-2004",ask,ask,ask,ask,2.1
+A_laevigata3,Atta laevigata,5,"atta-laevigata_circular-tunnel-table_moreira-2004, atta-laevigata_depths-table_moreira2004, atta-laevigata_photos-nests2n3_moreira-2004, atta-laevigata_table_moreira-2004, atta-laevigata_tunnel-table_moreira-2004",ask,ask,ask,ask,1.2
+A_bisphaerica1,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,1.2
+A_bisphaerica2,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,1.6
+A_bisphaerica3,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,1.6
+A_bisphaerica4,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,1.2
+A_bisphaerica5,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,1.5
+A_bisphaerica6,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,2.9
+A_bisphaerica7,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,1.4
+A_bisphaerica8,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,2.6
+A_bisphaerica9,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,2.5
+A_bisphaerica10,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,1.3
+A_bisphaerica11,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,2.9
+A_bisphaerica12,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,2.6
+A_bisphaerica13,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,2.8
+A_bisphaerica14,Atta bisphaerica,3,"atta-bisphaerica_chamber-table_forti-2018, atta-bisphaerica_depth-table_forti-2018, atta-bisphaerica_tunnel-table_forti-2018",ask,ask,ask,ask,2.8
+A_bisphaerica_A1,Atta bisphaerica,2,"atta-bisphaerica_tunnel-table_moreira-2004, atta-bisphaerica_chamber-table_moreira-2004",ask,ask,ask,ask,n/a
+A_bisphaerica_A2,Atta bisphaerica,2,"atta-bisphaerica_tunnel-table_moreira-2004, atta-bisphaerica_chamber-table_moreira-2004",ask,ask,ask,ask,n/a
+A_bisphaerica_A3,Atta bisphaerica,2,"atta-bisphaerica_tunnel-table_moreira-2004, atta-bisphaerica_chamber-table_moreira-2004",ask,ask,ask,ask,n/a
+A_bisphaerica_A4,Atta bisphaerica,2,"atta-bisphaerica_tunnel-table_moreira-2004, atta-bisphaerica_chamber-table_moreira-2004",ask,ask,ask,ask,n/a
+A_bisphaerica_A5,Atta bisphaerica,2,"atta-bisphaerica_tunnel-table_moreira-2004, atta-bisphaerica_chamber-table_moreira-2004",ask,ask,ask,ask,n/a
+A_bisphaerica_A6,Atta bisphaerica,2,"atta-bisphaerica_tunnel-table_moreira-2004, atta-bisphaerica_chamber-table_moreira-2004",ask,ask,ask,ask,n/a
+A_bisphaerica_B1,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B2,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B3,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B4,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B5,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B6,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B7,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B8,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B9,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+A_bisphaerica_B10,Atta bisphaerica,1,atta-bisphaerica_entrance-table_moreira-2004,ask,ask,n,ask,n/a
+H_venator1,Harpegnathos venator,1,harpegnathos-venator_photos-schematics_aupanun-2022,y,y,1,ask,0.16
+H_venator2,Harpegnathos venator,1,harpegnathos-venator_photos-schematics_aupanun-2022,y,y,1,ask,0.1
+Aphaenogaster_1,Aphaenogaster,0,,y,y,1,y,n/a
+Forelius_sp1,Forelius,0,,y,y,1,y,n/a
+P_badius_223_new,Pogonomyrmex badius,?,,y,y,1,n,n
+P_badius_290_new,Pogonomyrmex badius,?,,y,y,1,n,n
+P_imparis1,Prenolepis imparis,0,,y,y,1,n,n
+29,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.1376859
+53,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.3045794
+83,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.1974533
+125,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.237516
+55,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.1977815
+70,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.3166256
+59,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.1836707
+79,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.2168459
+56,Dorymyrmex bureni,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.2016119
+57,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.2886204
+69,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.1914515
+113,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.150427
+119,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.139903
+71,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.547874
+72,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.2597614
+112,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.160984
+73,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.2072463
+67,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.4462049
+68,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.6894512
+120,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.063264
+128,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.393766
+121,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.268437
+116,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.524634
+111,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.391492
+93,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.455118
+130,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.291014
+30,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.1537061
+92,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.492558
+131,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.23062
+50,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.7783585
+61,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.3192598
+122,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.254625
+133,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.388754
+126,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.389966
+110,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.467253
+117,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.527067
+129,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.246401
+75,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.5296993
+132,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.374477
+123,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.578283
+118,Dorymyrmex elegans,2,"dorymyrmex_drager_fig-2, drager-dorymyrmex-data",n,n,n,n,0.45448
