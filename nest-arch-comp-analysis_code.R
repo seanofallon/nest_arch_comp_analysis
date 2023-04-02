@@ -31,10 +31,10 @@ library(gtable)
 ####################### Load in data files, set working directory, create/edit objects needed:
 ################# General
 # load nest summaries to reference for species names
-nest_summaries<-read.csv("C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/data-analysis/nest-summaries_upload.csv") 
+nest_summaries<-read.csv("nest-summaries_upload.csv") 
 
 ## load and prep foraging strategies datasheet to be paired with nests
-foraging_strats<-read.csv("C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/data-analysis/foraging-by-species_upload.csv")
+foraging_strats<-read.csv("foraging-by-species_upload.csv")
 # remove excess cols
 foraging_strats<-foraging_strats[,c(1,3)]
 # fix spelling
@@ -47,27 +47,25 @@ foraging_strats[foraging_strats == "Tandem Running"] <- "Group Recruitment"
 foraging_strats[foraging_strats == "Stable Trunk Trail"] <- "Stable Trail"
 foraging_strats[foraging_strats == "Long-term Trail Network"] <- "Stable Trail"
 
-
-### Nest networks for Density and ID entrance chambers
-# set working directory to folder w/ edgelist files to create nest networks
-setwd("C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/data-analysis/All Networks")
-# make a list of the names of all the files in that folder, now input_files is a list of csv's
-input_files<-list.files() 
-# saves path to be called in loop (must go to folder w/ network csvs - path must end in "/" to append filename to)
-data_folder<-("C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/data-analysis/All Networks/") 
-
 ################# Entrance Chamber Widths, # Chambers
 # make empty dataframe to fill with entrance chamber widths
 e_chamber_data<-data.frame() 
 #loads chamber datasheet to be referenced in loop - change to path to Chamber_Widths_perChamber.csv
-chamber_data<-read.csv("C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/data-analysis/Chamber_Widths_perChamber.csv") 
+chamber_data<-read.csv("Chamber_Widths_perChamber.csv") 
 # clean chamber_data so it only contains chambers
 chamber_data<-chamber_data[chamber_data$Structure.Type=="Chamber",]
 # load data file w/ widths of entrance chambers for which we don't have a network
-networkless_e_chambers<-read.csv("C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/data-analysis/e-chamber-widths_no-net.csv", header=FALSE)
+networkless_e_chambers<-read.csv("e-chamber-widths_no-net.csv", header=FALSE)
+# Add non-networked nests w/ num.cham known
+networkless_num.cham<-read.csv("num-cham_no-net_upload.csv", header=FALSE)
 # load data file w/ ant morphometry measurements - read.csv needs to be called on path to morpho_upload
-morph_data<-read.csv("C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/data-analysis/morpho_upload.csv") #loads morph datasheet to be references in loop
+morph_data<-read.csv("morpho_upload.csv") #loads morph datasheet to be references in loop
 
+### Nest networks for Density and ID entrance chambers
+# make a list of the names of all the files in that folder, now input_files is a list of csv's
+input_files<-list.files('All Networks') 
+# saves path to be called in loop (must go to folder w/ network csvs - path must end in "/" to append filename to)
+data_folder<-("All Networks/") 
 
 ## Extract e. chamber widths from edgelists in All_Networks and widths in Chamber_Widths_perChamber
 # loop takes each file in input_files and processes it - representing each nest as network, extracting chamber data from chamber sheet
@@ -117,6 +115,9 @@ e_chamber_data<-rbind(e_chamber_data, networkless_e_chambers)
 
 # add names to columns
 names(e_chamber_data) <- c("Nest.ID","Species","E_chamber_ID","E_chamber_width")
+
+### Scale chambers to mm - reported in cm
+e_chamber_data$E_chamber_width<-10*(e_chamber_data$E_chamber_width)
 
 ### Scale e. chambers by size of ant
 ## clean morph_data, make col for max head width
@@ -248,8 +249,6 @@ names(density_by_species)[3]<-"CV"
 # Remove density as we'll include species w/o networks
 num.cham_w_reps<-nets_w_reps[,-3]
 
-# Add non-networked nests w/ num.cham known
-networkless_num.cham<-read.csv("C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/data-analysis/num-cham_no-net_upload.csv", header=FALSE)
 # name cols
 names(networkless_num.cham)<-c("Nest.ID","Species","Num.Chambers")
 
@@ -289,6 +288,8 @@ nest_depths<-nest_summaries[nest_summaries$Nest.Depth...m.!="n/a"&
                             c(1,2,9)]
 nest_depths$Nest.Depth...m.<-as.numeric(nest_depths$Nest.Depth...m.)
 names(nest_depths)[3]<-"Nest.Depth"
+# scale nest depth to mm - reported in meters
+nest_depths$Nest.Depth<-1000*(nest_depths$Nest.Depth)
 # filter out species w/ <3 nests 
 nest_depths<-nest_depths %>%
   group_by(Species) %>%
@@ -1448,7 +1449,6 @@ for (i in 1:nrow(depths_foraging)){
 depths_foraging<-depths_foraging[!(depths_foraging$foraging.strat==""),]
 depths_foraging<-na.omit(depths_foraging)
 
-
 #### Test features vs. foraging strat
 ### W/ individual nests
 # Run ANOVA on ECW/WL w/ foraging strat and species as "effects"
@@ -1601,7 +1601,26 @@ depths_foraging$foraging.strat<-factor(depths_foraging$foraging.strat, levels = 
 
 
 ############################################### OUTPUTS #################################################
-density_v_num.cham<-plot(Density ~ Num.Chambers, data=nets_w_reps)
+# Fig S3 (Density v. Num.Chambers)
+ggplot(data = density_foraging, mapping = aes(x = Num.Chambers,
+                                         y = Density)) +
+  geom_point(aes(color = foraging.strat),
+             size = 3) +
+  scale_color_manual(name='Foraging Strategy',
+                     labels=c('Solitary Foraging','Group Recruitment',
+                              'Stable Trail','Mass Recruitment'),
+                     values=c("#9965b9","#6cb966","#b86565","#6598b9")) +
+  xlab('# of Chambers') +
+  theme(panel.background = element_blank(),
+        axis.line = element_line(colour = "black"),
+        axis.title.x = element_text(size = 20, margin = margin(t=10,r=0,b=0,l=0)),
+        axis.title.y = element_text(size = 20, margin = margin(t=0,r=10,b=0,l=0)),
+        axis.text = element_text(size=15),
+        legend.position = c(0.74,0.75),
+        legend.text = element_text(size = 20),
+        legend.title = element_blank(),
+        legend.key = element_rect(fill = 'white'),
+        legend.background = element_rect(fill = 'white',color = 'black'))
 
 
 dev.off()
@@ -1629,9 +1648,12 @@ cvs_heatmap<-phylo.heatmap(mar = c(0.1,0.1,0,0.1),
                            ylim = c(-0.18,1.23))
 
 # make presentable
-dev.off()
-grid.draw(species.summary_table.print)
+# dev.off()
+# grid.draw(species.summary_table.print)
 
+# write species summary table to csv (change path to where you want it)
+write.csv(species.summary_table,
+          file = 'C:/Users/seano/Desktop/Projects/ComparativeAnalysisNests/species_summary_table.csv')
 
 ### Report tests of differences among species
 dev.off()
@@ -1744,12 +1766,6 @@ text(x= 2, y= 0.485, labels= "*", col = "blue", adj = 0.5, cex = 2)
 text(x= 1, y= 0.537, labels= "*", col = "blue", adj = 0.5, cex = 2)
 
 
-
-
-
-
-
-
 dev.off()
 grid.draw(aov.for_table)
 
@@ -1761,27 +1777,28 @@ grid.draw(kw.for_table)
 ## Set multi-panel output
 dev.off()
 par(mfrow=c(3,2),
-    mar=c(5,6,4,2)+0.1)
+    mar=c(5,6,4,2)+0.1,
+    mgp=c(4.3,1,0))
 
 ## Unscaled nest depth
 nest.depth_boxplot<-boxplot(Nest.Depth ~ foraging.strat, data = depths_foraging,
-                            ylab = "Nest Depth", xlab = "",
+                            ylab = "Nest Depth (mm)", xlab = "",
                             #names = c("Solitary\nForaging","Group\nRecruitment","Stable\nTrail","Mass\nRecruitment"),
                             col = c("#9965b9","#6cb966","#b86565","#6598b9"),
                             border = c("#5c3278","#327732","#773332","#355474"),
                             outcol = c("#5c3278","#327732","#773332","#355474"),
                             whiskcol = c("#9965b9","#6cb966","#b86565","#6598b9"),
                             whisklty = 1,
-                            ylim = c(0,4),
+                            ylim = c(0,4000),
                             cex.axis = 1.5,
                             cex.lab = 2.1,
                             pars = list(boxwex = 0.65, staplewex = 0.38, outwex = 0.7),
                             las=1)
 title("A. Nest Depth", adj = 0, cex.main = 2.5)
-text(x= 1, y= 3.9, labels= "A", adj = 0.4, cex = 1.3)
-text(x= 2, y= 3.9, labels= "A", adj = 0.4, cex = 1.3)
-text(x= 3, y= 3.9, labels= "B", adj = 0.4, cex = 1.3)
-text(x= 4, y= 3.9, labels= "B", adj = 0.4, cex = 1.3)
+text(x= 1, y= 3900, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 2, y= 3900, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 3, y= 3900, labels= "B", adj = 0.4, cex = 1.3)
+text(x= 4, y= 3900, labels= "B", adj = 0.4, cex = 1.3)
 
 ## Nest depth scaled by Weber's Length
 scaled.depth_boxplot<-boxplot(scaled.depth ~ foraging.strat, data = depths_foraging,
@@ -1791,16 +1808,16 @@ scaled.depth_boxplot<-boxplot(scaled.depth ~ foraging.strat, data = depths_forag
                               outcol = c("#5c3278","#327732","#773332","#355474"),
                               whiskcol = c("#9965b9","#6cb966","#b86565","#6598b9"),
                               whisklty = 1,
-                              ylim = c(0,3.5),
+                              ylim = c(0,3500),
                               cex.axis = 1.5,
                               cex.lab = 2.1,
                               pars = list(boxwex = 0.65, staplewex = 0.38, outwex = 0.7),
                               las=1)
 title("B. Nest Depth / Weber's Length", adj = 0, cex.main = 2.5)
-text(x= 1, y= 3.5, labels= "A", adj = 0.4, cex = 1.3)
-text(x= 2, y= 3.5, labels= "A", adj = 0.4, cex = 1.3)
-text(x= 3, y= 3.5, labels= "B", adj = 0.4, cex = 1.3)
-text(x= 4, y= 3.5, labels= "C", adj = 0.4, cex = 1.3)
+text(x= 1, y= 3500, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 2, y= 3500, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 3, y= 3500, labels= "B", adj = 0.4, cex = 1.3)
+text(x= 4, y= 3500, labels= "C", adj = 0.4, cex = 1.3)
 
 ## Density
 density_boxplot<-boxplot(Density ~ foraging.strat, data = density_foraging,
@@ -1843,16 +1860,16 @@ ecw.hw_boxplot<-boxplot(Width_by_Head ~ foraging.strat, data = ec_foraging,
                         outcol = c("#5c3278","#327732","#773332","#355474"),
                         whiskcol = c("#9965b9","#6cb966","#b86565","#6598b9"),
                         whisklty = 1,
-                        ylim = c(0,18),
+                        ylim = c(0,180),
                         cex.axis = 1.5,
                         cex.lab = 2.1,
                         pars = list(boxwex = 0.65, staplewex = 0.38, outwex = 0.7),
                         las=1)
 title("E. Entrance Chamber Width / Head Width", adj = 0, cex.main = 2.5)
-text(x= 1, y= 17.5, labels= "A", adj = 0.4, cex = 1.3)
-text(x= 2, y= 17.5, labels= "B", adj = 0.4, cex = 1.3)
-text(x= 3, y= 17.5, labels= "A", adj = 0.4, cex = 1.3)
-text(x= 4, y= 17.5, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 1, y= 175, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 2, y= 175, labels= "B", adj = 0.4, cex = 1.3)
+text(x= 3, y= 175, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 4, y= 175, labels= "A", adj = 0.4, cex = 1.3)
 
 ## E. chamber width scaled by Weber's length
 ecw.wl_boxplot<-boxplot(Width_by_Webers ~ foraging.strat, data = ec_foraging,
@@ -1862,14 +1879,13 @@ ecw.wl_boxplot<-boxplot(Width_by_Webers ~ foraging.strat, data = ec_foraging,
                         outcol = c("#5c3278","#327732","#773332","#355474"),
                         whiskcol = c("#9965b9","#6cb966","#b86565","#6598b9"),
                         whisklty = 1,
-                        ylim = c(0,12),
+                        ylim = c(0,120),
                         cex.axis = 1.5,
                         cex.lab = 2.1,
                         pars = list(boxwex = 0.65, staplewex = 0.38, outwex = 0.7),
                         las=1)
 title("F. Entrance Chamber Width / Weber's Length", adj = 0, cex.main = 2.5)
-text(x= 1, y= 11.5, labels= "A", adj = 0.4, cex = 1.3)
-text(x= 2, y= 11.5, labels= "B", adj = 0.4, cex = 1.3)
-text(x= 3, y= 11.5, labels= "A", adj = 0.4, cex = 1.3)
-text(x= 4, y= 11.5, labels= "B", adj = 0.4, cex = 1.3)
-
+text(x= 1, y= 115, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 2, y= 115, labels= "B", adj = 0.4, cex = 1.3)
+text(x= 3, y= 115, labels= "A", adj = 0.4, cex = 1.3)
+text(x= 4, y= 115, labels= "B", adj = 0.4, cex = 1.3)
